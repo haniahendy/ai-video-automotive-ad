@@ -1,0 +1,11 @@
+{
+  "title": "Night Drive - 5s automotive spot",
+  "format": "single-shot cinematic car commercial",
+  "target_style": "premium automotive advertisement, neon-noir night city, 35mm film look",
+  "beats": [
+    {"t": "0.0-1.5s", "shot": "electric SUV emerges through mist, headlights cutting the dark", "camera": "low tracking"},
+    {"t": "1.5-3.5s", "shot": "car glides through rain-soaked neon street, wet-asphalt reflections in teal and magenta", "camera": "tracking alongside"},
+    {"t": "3.5-5.0s", "shot": "hero pass, anamorphic flare across frame", "camera": "hold"}
+  ],
+  "post": "none (straight model output, no grading or edits)"
+}
